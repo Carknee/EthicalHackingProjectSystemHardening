@@ -1,5 +1,5 @@
-# Ethical Hacking Project (System Hardening)
-Elijah Carney, Ethan Hunter, Wyatt Ingraham
+# **Ethical Hacking Project (System Hardening)**
+*Elijah Carney | Ethan Hunter | Wyatt Ingraham*
 
 ## OS & Tools Used In This Project: 
 
@@ -11,6 +11,6 @@ Elijah Carney, Ethan Hunter, Wyatt Ingraham
 - OpenVAS Scanner (https://github.com/greenbone/openvas-scanner) 
 - Oracle VirtualBox for Windows (VirtualBox-7.2.6a-172322-Win)
 
-Technical Challenges Faced:
+## Technical Challenges Faced:
 
 
