@@ -3,9 +3,9 @@
 
 ## OS & Tools Used In This Project: 
 
-## The OS: 
-- Windows 11 (Win11_25H2_English_x64_v2)
-- Kali Linux for VirtualBox (kali-linux-2026.1-virtualbox-amd64)
+## The Operating Systems: 
+- Windows 11 (Target Machine) [Win11_25H2_English_x64_v2]
+- Kali Linux for VirtualBox (Scanner) [kali-linux-2026.1-virtualbox-amd64]
 
 ## The Tools:
 - OpenVAS Scanner *(https://github.com/greenbone/openvas-scanner)*
