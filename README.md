@@ -9,7 +9,7 @@
 
 ## The Tools:
 - OpenVAS Scanner ***(https://github.com/greenbone/openvas-scanner)***
-- Oracle VirtualBox for Windows ***(File v. VirtualBox-7.2.6a-172322-Win***
+- Oracle VirtualBox for Windows ***(File v. VirtualBox-7.2.6a-172322-Win)***
 
 ## Technical Challenges Faced:
 - 
