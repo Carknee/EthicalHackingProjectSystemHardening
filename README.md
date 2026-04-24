@@ -17,5 +17,7 @@
 - Oracle VirtualBox Can Be Found Here: ***(https://www.virtualbox.org/wiki/Downloads)***
 
 ## Technical Challenges Faced:
-- 
+- Setting up Connection Between Multiple VMs on one device including hardware limitations and VirtualBox internal network setup
+- OpenVAS setup including sync errors, connection to Windows VM, limitations from Northwest Firewalls, Data pulling and storage limitations, Crashing or lockdwon errors on pulling information for openVAS scan setup.
+- One interesting issue we ran into was if the screen were to sleep, as in my computer or the VM which would auto sleep after a set time which I couldn't figure out how to change, would lead to some of the errors listed, mainly the lockdown errors or sync errors.
 
