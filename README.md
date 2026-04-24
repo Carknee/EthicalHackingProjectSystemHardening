@@ -1,6 +1,12 @@
 # Ethical Hacking Project (System Hardening)
 *Elijah Carney | Ethan Hunter | Wyatt Ingraham*
 
+
+## Link to our presentation:
+https://gamma.app/docs/System-Hardening-Attack-Surface-Reduction-s71vsks4d8wb5qi
+
+More images are available in the Project Images folder.
+
 ## OS & Tools Used In This Project: 
 
 ## The Operating Systems (ISO Files Used): 
